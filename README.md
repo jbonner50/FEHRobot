@@ -1,4 +1,4 @@
-# Team E3's Code
+# Fundamentals of Engineering Honors - Robot Project Team E3
 
 [Code Documentation](https://fehrobot.readthedocs.io/)
 
